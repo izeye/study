@@ -8,3 +8,8 @@
 ## YouTube
 * How to Find Peace of Mind
   * https://www.youtube.com/watch?v=Bi6vvhXfScU
+
+## Math
+### Statistics
+* Quantile: Definition and How to Find Them in Easy Steps
+  * https://www.statisticshowto.datasciencecentral.com/quantile-definition-find-easy-steps/
