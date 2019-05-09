@@ -13,3 +13,7 @@
 ### Statistics
 * Quantile: Definition and How to Find Them in Easy Steps
   * https://www.statisticshowto.datasciencecentral.com/quantile-definition-find-easy-steps/
+
+## Etc.
+* Your Workday Is Interrupted Every 11 Minutes. How to Manage Those Distractions.
+  * https://www.entrepreneur.com/video/245388
