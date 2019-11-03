@@ -5,6 +5,10 @@
 * Kio Stark, author of When Strangers Meet
   * https://www.facebook.com/TED/videos/10157462391485652/
 
+### TED Ed
+* Why do cats act so weird?
+  * https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird
+
 ## YouTube
 * How to Find Peace of Mind
   * https://www.youtube.com/watch?v=Bi6vvhXfScU
