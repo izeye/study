@@ -11,6 +11,10 @@
 * Why do cats act so weird?
   * https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird
 
+### Misc.
+* Do schools kill creativity?
+  * https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
+
 ## YouTube
 * How to Find Peace of Mind
   * https://www.youtube.com/watch?v=Bi6vvhXfScU
