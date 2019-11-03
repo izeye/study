@@ -6,6 +6,8 @@
   * https://www.facebook.com/TED/videos/10157462391485652/
 
 ### TED Ed
+* How do dogs "see" with their noses?
+  * https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses
 * Why do cats act so weird?
   * https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird
 
