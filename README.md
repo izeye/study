@@ -10,6 +10,8 @@
   * https://ed.ted.com/lessons/can-you-solve-the-prisoner-hat-riddle-alex-gendler
 * How do dogs "see" with their noses?
   * https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses
+* The loathsome, lethal mosquito - Rose Eveleth
+  * https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth
 * Why do cats act so weird?
   * https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird
 
