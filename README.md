@@ -14,6 +14,8 @@
   * https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky
 * The loathsome, lethal mosquito - Rose Eveleth
   * https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth
+* What are those floaty things in your eye? - Michael Mauser
+  * https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser
 * Why do cats act so weird?
   * https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird
 
