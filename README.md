@@ -6,6 +6,8 @@
   * https://www.facebook.com/TED/videos/10157462391485652/
 
 ### TED Ed
+* Can you solve the bridge riddle? - Alex Gendler
+  * https://ed.ted.com/lessons/can-you-solve-the-bridge-riddle-alex-gendler
 * Can you solve the prisoner hat riddle? - Alex Gendler
   * https://ed.ted.com/lessons/can-you-solve-the-prisoner-hat-riddle-alex-gendler
 * How do dogs "see" with their noses?
