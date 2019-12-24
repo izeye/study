@@ -8,6 +8,8 @@
 ### TED Ed
 * Can you solve the bridge riddle? - Alex Gendler
   * https://ed.ted.com/lessons/can-you-solve-the-bridge-riddle-alex-gendler
+* Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler
+  * https://ed.ted.com/lessons/the-famously-difficult-green-eyed-logic-puzzle-alex-gendler
 * Can you solve the prisoner hat riddle? - Alex Gendler
   * https://ed.ted.com/lessons/can-you-solve-the-prisoner-hat-riddle-alex-gendler
 * How do dogs "see" with their noses?
