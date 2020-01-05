@@ -28,19 +28,8 @@
   * https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
 
 ## YouTube
-### Math
-#### Statistics
-* Standard Deviation - Explained and Visualized
-  * https://www.youtube.com/watch?v=MRqtXL2WX2M
-
-### Misc.
 * How to Find Peace of Mind
   * https://www.youtube.com/watch?v=Bi6vvhXfScU
-
-## Math
-### Statistics
-* Quantile: Definition and How to Find Them in Easy Steps
-  * https://www.statisticshowto.datasciencecentral.com/quantile-definition-find-easy-steps/
 
 ## English
 * Agree to disagree
