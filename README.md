@@ -30,6 +30,8 @@
 ## YouTube
 * How to Find Peace of Mind
   * https://www.youtube.com/watch?v=Bi6vvhXfScU
+* What is A/A Testing? | A/B Testing Fundamentals
+  * https://www.youtube.com/watch?v=8g4u-KYf4YU
 
 ## English
 * Agree to disagree
