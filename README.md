@@ -26,6 +26,8 @@
 ### Misc.
 * Amy Cuddy: Your body language may shape who you are
   * https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are
+* James Veitch: This is what happens when you reply to spam email
+  * https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email#t-568851
 * Sir Ken Robinson: Do schools kill creativity?
   * https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
 
