@@ -24,7 +24,9 @@
   * https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird
 
 ### Misc.
-* Do schools kill creativity?
+* Amy Cuddy: Your body language may shape who you are
+  * https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are
+* Sir Ken Robinson: Do schools kill creativity?
   * https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
 
 ## YouTube
