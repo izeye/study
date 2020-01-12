@@ -28,6 +28,8 @@
   * https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are
 * James Veitch: This is what happens when you reply to spam email
   * https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email#t-568851
+* Simon Sinek: How great leaders inspire action
+  * https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 * Sir Ken Robinson: Do schools kill creativity?
   * https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
 
