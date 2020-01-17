@@ -5,3 +5,5 @@
 ##### Improve your keywords
 * About keyword matching options
   * https://support.google.com/google-ads/answer/7478529
+* About broad match
+  * https://support.google.com/google-ads/answer/2497828
