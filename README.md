@@ -1,6 +1,10 @@
 # study
 
 ## TED
+### TED2015
+* The next outbreak? We're not ready
+  * https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready
+
 ### Live from TED HQ
 * Kio Stark, author of When Strangers Meet
   * https://www.facebook.com/TED/videos/10157462391485652/
