@@ -5,6 +5,10 @@
 * The next outbreak? We're not ready
   * https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready
 
+### TED Connects
+* How we must respond to the COVID-19 pandemic
+  * https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_covid_19_pandemic
+
 ### Live from TED HQ
 * Kio Stark, author of When Strangers Meet
   * https://www.facebook.com/TED/videos/10157462391485652/
