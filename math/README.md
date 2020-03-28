@@ -54,6 +54,8 @@
   * https://www.youtube.com/watch?v=iiRiOlkLa6A
 * Standard Deviation - Explained and Visualized
   * https://www.youtube.com/watch?v=MRqtXL2WX2M
+* The Geometric Mean
+  * https://www.youtube.com/watch?v=_UdGUULKN-E
 
 ## Articles
 * Quantile: Definition and How to Find Them in Easy Steps
