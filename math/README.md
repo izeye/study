@@ -72,6 +72,8 @@
   * https://www.youtube.com/watch?v=ISaVvSO_3Sg
 * Range | Interquartile Range (IQR) | Box and whisker plot
   * https://www.youtube.com/watch?v=qcTcsEdMgBo
+* What are degrees of freedom?!? Seriously.
+  * https://www.youtube.com/watch?v=N20rl2llHno
 
 #### Misc.
 * Normal Distribution - Explained Simply (part 1)
