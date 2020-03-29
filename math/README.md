@@ -47,6 +47,32 @@
 * Probability of Independent and Dependent Events (6.2)
   * https://www.youtube.com/watch?v=LS-_ihDKr2M
 
+#### zedstatistics
+* Descriptive Statistics: The Mean
+  * https://www.youtube.com/watch?v=bfQLNyiDPsk
+* Arithmetic Mean | Geometric Mean | Harmonic Mean
+  * https://www.youtube.com/watch?v=jXKYI7wyqp0
+* Descriptive Statistics: The median
+  * https://www.youtube.com/watch?v=rvBqEEGtJY4
+* Descriptive Statistics: The Mode
+  * https://www.youtube.com/watch?v=HUUyX80PUuI
+* Variance and Std Deviation | Why divide by n-1?
+  * https://www.youtube.com/watch?v=wpY9o_OyxoQ
+* Standard Error (of the sample mean) | Sampling | Confidence Intervals | Proportions
+  * https://www.youtube.com/watch?v=ulBG4SOHKS0
+* What is the Coefficient Of Variation?? (+ examples!)
+  * https://www.youtube.com/watch?v=9dwLKGoaeEs
+* What is skewness? A detailed explanation (with moments!)
+  * https://www.youtube.com/watch?v=_vDRKlTz7yo
+* What is Kurtosis? (+ the "peakedness" controversy!)
+  * https://www.youtube.com/watch?v=TM033GCU-SY
+* What are Quartiles? Percentiles? Deciles?
+  * https://www.youtube.com/watch?v=Wy7w_5N7vLI
+* What are "moments" in statistics? An intuitive video!
+  * https://www.youtube.com/watch?v=ISaVvSO_3Sg
+* Range | Interquartile Range (IQR) | Box and whisker plot
+  * https://www.youtube.com/watch?v=qcTcsEdMgBo
+
 #### Misc.
 * Normal Distribution - Explained Simply (part 1)
   * https://www.youtube.com/watch?v=xgQhefFOXrM
