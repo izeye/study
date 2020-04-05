@@ -34,6 +34,8 @@
 ### Misc.
 * Amy Cuddy: Your body language may shape who you are
   * https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are
+* Brené Brown: The power of vulnerability
+  * https://www.ted.com/talks/brene_brown_the_power_of_vulnerability/
 * James Veitch: This is what happens when you reply to spam email
   * https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email#t-568851
 * Simon Sinek: How great leaders inspire action
