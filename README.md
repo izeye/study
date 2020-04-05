@@ -44,6 +44,8 @@
   * https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 * Sir Ken Robinson: Do schools kill creativity?
   * https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
+* Tim Urban: Inside the mind of a master procrastinator
+  * https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator
 
 ## YouTube
 * How to Find Peace of Mind
