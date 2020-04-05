@@ -59,6 +59,11 @@
 * 세브란스병원 건강칼럼 - 백내장
   * https://terms.naver.com/entry.nhn?docId=2104925&cid=63166&categoryId=51022
 
+## Physics
+### Richard Feynman
+* Richard Feynman Magnets
+  * https://www.youtube.com/watch?v=MO0r930Sn_8
+
 ## Etc.
 * Your Workday Is Interrupted Every 11 Minutes. How to Manage Those Distractions.
   * https://www.entrepreneur.com/video/245388
