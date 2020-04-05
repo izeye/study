@@ -36,6 +36,8 @@
   * https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are
 * Brené Brown: The power of vulnerability
   * https://www.ted.com/talks/brene_brown_the_power_of_vulnerability
+* Cameron Russell: Looks aren't everything. Believe me, I'm a model.
+  * https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model
 * James Veitch: This is what happens when you reply to spam email
   * https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 * Julian Treasure: How to speak so that people want to listen
