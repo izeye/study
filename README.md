@@ -42,6 +42,8 @@
   * https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 * Julian Treasure: How to speak so that people want to listen
   * https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen
+* Sam Berns: My philosophy for a happy life
+  * https://www.ted.com/talks/sam_berns_my_philosophy_for_a_happy_life
 * Simon Sinek: How great leaders inspire action
   * https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 * Sir Ken Robinson: Do schools kill creativity?
