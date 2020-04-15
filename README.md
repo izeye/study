@@ -42,6 +42,8 @@
   * https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
 * Julian Treasure: How to speak so that people want to listen
   * https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen
+* Mary Roach: 10 things you didn't know about orgasm
+  * https://www.ted.com/talks/mary_roach_10_things_you_didn_t_know_about_orgasm
 * Robert Waldinger: What makes a good life? Lessons from the longest study on happiness
   * https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness
 * Sam Berns: My philosophy for a happy life
