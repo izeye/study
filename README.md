@@ -72,6 +72,9 @@
 * Richard Feynman Magnets
   * https://www.youtube.com/watch?v=MO0r930Sn_8
 
+## Animals
+* [한국민족문화대백과 - 달팽이](https://terms.naver.com/entry.nhn?docId=534462&cid=46639&categoryId=46639)
+
 ## Etc.
 * Your Workday Is Interrupted Every 11 Minutes. How to Manage Those Distractions.
   * https://www.entrepreneur.com/video/245388
