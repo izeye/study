@@ -20,6 +20,7 @@
 * [The Infinite Hotel Paradox - Jeff Dekofsky](https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky)
 * [The loathsome, lethal mosquito - Rose Eveleth](https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth)
 * [The mathematics of sidewalk illusions - Fumiko Futamura](https://www.youtube.com/watch?v=wujEE3PRVUo)
+* [The unexpected math behind Van Gogh's "Starry Night" - Natalya St. Clair](https://www.youtube.com/watch?v=PMerSm2ToFY)
 * [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
 * [What is Zeno's Dichotomy Paradox? - Colm Kelleher](https://www.youtube.com/watch?v=EfqVnj-sgcc)
 * [Why can't you divide by zero? - TED-Ed](https://www.youtube.com/watch?v=NKmGVE85GUU)
