@@ -14,6 +14,7 @@
 * [Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler](https://ed.ted.com/lessons/the-famously-difficult-green-eyed-logic-puzzle-alex-gendler)
 * [Can you solve the prisoner hat riddle? - Alex Gendler](https://ed.ted.com/lessons/can-you-solve-the-prisoner-hat-riddle-alex-gendler)
 * [How do dogs "see" with their noses?](https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses)
+* [Newton’s three-body problem explained - Fabio Pacucci](https://www.youtube.com/watch?v=D89ngRr4uZg)
 * [The Infinite Hotel Paradox - Jeff Dekofsky](https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky)
 * [The loathsome, lethal mosquito - Rose Eveleth](https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth)
 * [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
