@@ -10,22 +10,15 @@
   * https://www.facebook.com/TED/videos/10157462391485652/
 
 ### TED Ed
-* Can you solve the bridge riddle? - Alex Gendler
-  * https://ed.ted.com/lessons/can-you-solve-the-bridge-riddle-alex-gendler
-* Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler
-  * https://ed.ted.com/lessons/the-famously-difficult-green-eyed-logic-puzzle-alex-gendler
-* Can you solve the prisoner hat riddle? - Alex Gendler
-  * https://ed.ted.com/lessons/can-you-solve-the-prisoner-hat-riddle-alex-gendler
-* How do dogs "see" with their noses?
-  * https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses
-* The Infinite Hotel Paradox - Jeff Dekofsky
-  * https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky
-* The loathsome, lethal mosquito - Rose Eveleth
-  * https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth
-* What are those floaty things in your eye? - Michael Mauser
-  * https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser
-* Why do cats act so weird?
-  * https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird
+* [Can you solve the bridge riddle? - Alex Gendler](https://ed.ted.com/lessons/can-you-solve-the-bridge-riddle-alex-gendler)
+* [Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler](https://ed.ted.com/lessons/the-famously-difficult-green-eyed-logic-puzzle-alex-gendler)
+* [Can you solve the prisoner hat riddle? - Alex Gendler](https://ed.ted.com/lessons/can-you-solve-the-prisoner-hat-riddle-alex-gendler)
+* [How do dogs "see" with their noses?](https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses)
+* [The Infinite Hotel Paradox - Jeff Dekofsky](https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky)
+* [The loathsome, lethal mosquito - Rose Eveleth](https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth)
+* [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
+* [Why can't you divide by zero? - TED-Ed](https://www.youtube.com/watch?v=NKmGVE85GUU)
+* [Why do cats act so weird?](https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird)
 
 ### Misc.
 * Amy Cuddy: Your body language may shape who you are
