@@ -12,6 +12,7 @@
 ### TED Ed
 * [A brief history of banned numbers - Alessandra King](https://www.youtube.com/watch?v=VmWVXOIQblM)
 * [Can you solve the bridge riddle? - Alex Gendler](https://ed.ted.com/lessons/can-you-solve-the-bridge-riddle-alex-gendler)
+* [Can you solve the cheating royal riddle? - Dan Katz](https://www.youtube.com/watch?v=hk9c7sJ08Bg)
 * [Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler](https://ed.ted.com/lessons/the-famously-difficult-green-eyed-logic-puzzle-alex-gendler)
 * [Can you solve the prisoner hat riddle? - Alex Gendler](https://ed.ted.com/lessons/can-you-solve-the-prisoner-hat-riddle-alex-gendler)
 * [Exponential Growth: How Folding Paper Can Get You to the Moon](https://www.youtube.com/watch?v=AmFMJC45f1Q)
