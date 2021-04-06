@@ -30,30 +30,18 @@
 * [Why don't perpetual motion machines ever work? - Netta Schramm](https://www.youtube.com/watch?v=A-QgGXbDyR0)
 
 ### Misc.
-* Amy Cuddy: Your body language may shape who you are
-  * https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are
-* Bill Gates: The next outbreak? We're not ready
-  * https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready
-* Brené Brown: The power of vulnerability
-  * https://www.ted.com/talks/brene_brown_the_power_of_vulnerability
-* Cameron Russell: Looks aren't everything. Believe me, I'm a model.
-  * https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model
-* James Veitch: This is what happens when you reply to spam email
-  * https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email
-* Julian Treasure: How to speak so that people want to listen
-  * https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen
-* Mary Roach: 10 things you didn't know about orgasm
-  * https://www.ted.com/talks/mary_roach_10_things_you_didn_t_know_about_orgasm
-* Robert Waldinger: What makes a good life? Lessons from the longest study on happiness
-  * https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness
-* Sam Berns: My philosophy for a happy life
-  * https://www.ted.com/talks/sam_berns_my_philosophy_for_a_happy_life
-* Simon Sinek: How great leaders inspire action
-  * https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
-* Sir Ken Robinson: Do schools kill creativity?
-  * https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity
-* Tim Urban: Inside the mind of a master procrastinator
-  * https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator
+* [Amy Cuddy: Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
+* [Bill Gates: The next outbreak? We're not ready](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready)
+* [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability)
+* [Cameron Russell: Looks aren't everything. Believe me, I'm a model.](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model)
+* [James Veitch: This is what happens when you reply to spam email](https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email)
+* [Julian Treasure: How to speak so that people want to listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
+* [Mary Roach: 10 things you didn't know about orgasm](https://www.ted.com/talks/mary_roach_10_things_you_didn_t_know_about_orgasm)
+* [Robert Waldinger: What makes a good life? Lessons from the longest study on happiness](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness)
+* [Sam Berns: My philosophy for a happy life](https://www.ted.com/talks/sam_berns_my_philosophy_for_a_happy_life)
+* [Simon Sinek: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+* [Sir Ken Robinson: Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+* [Tim Urban: Inside the mind of a master procrastinator](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
 
 ## YouTube
 * How to Find Peace of Mind
