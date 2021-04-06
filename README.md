@@ -43,6 +43,7 @@
 * [Simon Sinek: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 * [Sir Ken Robinson: Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
 * [Tim Urban: Inside the mind of a master procrastinator](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
+* [Tom Thum: The orchestra in my mouth](https://www.ted.com/talks/tom_thum_the_orchestra_in_my_mouth)
 
 ## YouTube
 * How to Find Peace of Mind
