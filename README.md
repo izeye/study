@@ -18,6 +18,7 @@
 * [Check your intuition: The birthday problem - David Knuffke](https://www.youtube.com/watch?v=KtT_cgMzHx8)
 * [Exponential Growth: How Folding Paper Can Get You to the Moon](https://www.youtube.com/watch?v=AmFMJC45f1Q)
 * [How do dogs "see" with their noses?](https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses)
+* [Is fire a solid, a liquid, or a gas? - Elizabeth Cox](https://www.youtube.com/watch?v=YV8TT9LRBrY)
 * [Newton’s three-body problem explained - Fabio Pacucci](https://www.youtube.com/watch?v=D89ngRr4uZg)
 * [The Infinite Hotel Paradox - Jeff Dekofsky](https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky)
 * [The loathsome, lethal mosquito - Rose Eveleth](https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth)
