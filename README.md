@@ -65,6 +65,7 @@
 #### 음식백과
 * 내 미각을 사로잡는 104가지 치즈수첩
   * [브리 치즈 [ Brie Cheese ]](https://terms.naver.com/entry.naver?docId=961241&cid=48181&categoryId=48265)
+  * [카망베르 치즈 [ Camembert Cheese ]](https://terms.naver.com/entry.naver?docId=961252&cid=48181&categoryId=48265)
 
 ## Physics
 ### Richard Feynman
