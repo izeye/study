@@ -17,6 +17,7 @@
 * [Can you solve the prisoner hat riddle? - Alex Gendler](https://ed.ted.com/lessons/can-you-solve-the-prisoner-hat-riddle-alex-gendler)
 * [Check your intuition: The birthday problem - David Knuffke](https://www.youtube.com/watch?v=KtT_cgMzHx8)
 * [Exponential Growth: How Folding Paper Can Get You to the Moon](https://www.youtube.com/watch?v=AmFMJC45f1Q)
+* [How do carbohydrates impact your health? - Richard J. Wood](https://www.youtube.com/watch?v=wxzc_2c6GMg)
 * [How do dogs "see" with their noses?](https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses)
 * [Is fire a solid, a liquid, or a gas? - Elizabeth Cox](https://www.youtube.com/watch?v=YV8TT9LRBrY)
 * [Newton’s three-body problem explained - Fabio Pacucci](https://www.youtube.com/watch?v=D89ngRr4uZg)
