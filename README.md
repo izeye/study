@@ -45,6 +45,7 @@
 * [Sam Berns: My philosophy for a happy life](https://www.ted.com/talks/sam_berns_my_philosophy_for_a_happy_life)
 * [Simon Sinek: How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 * [Sir Ken Robinson: Do schools kill creativity?](https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+* [This is what it's really like to live with ADHD](https://www.ted.com/talks/jessica_mccabe_this_is_what_it_s_really_like_to_live_with_adhd_jan_2017)
 * [Tim Urban: Inside the mind of a master procrastinator](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
 * [Tom Thum: The orchestra in my mouth](https://www.ted.com/talks/tom_thum_the_orchestra_in_my_mouth)
 
