@@ -28,6 +28,7 @@
 * [The unexpected math behind Van Gogh's "Starry Night" - Natalya St. Clair](https://www.youtube.com/watch?v=PMerSm2ToFY)
 * [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
 * [What is Zeno's Dichotomy Paradox? - Colm Kelleher](https://www.youtube.com/watch?v=EfqVnj-sgcc)
+* [When is a pandemic over?](https://ed.ted.com/lessons/when-is-a-pandemic-over)
 * [Why can't you divide by zero? - TED-Ed](https://www.youtube.com/watch?v=NKmGVE85GUU)
 * [Why do cats act so weird?](https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird)
 * [Why don't perpetual motion machines ever work? - Netta Schramm](https://www.youtube.com/watch?v=A-QgGXbDyR0)
