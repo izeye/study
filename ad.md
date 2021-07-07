@@ -16,3 +16,6 @@
 ## Display & Video 360 Help - Help Center
 * How time zones work in Display & Video 360
   * https://support.google.com/displayvideo/answer/3184282
+
+## YouTube
+* [DSA Page Feeds Set Up for Google Ads](https://www.youtube.com/watch?v=thfvVgTTSFM)
