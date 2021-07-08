@@ -1,6 +1,9 @@
 # study
 
 ## TED
+### TEDGlobal 2013
+* [How to make stress your friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+
 ### TED Connects
 * How we must respond to the COVID-19 pandemic
   * https://www.ted.com/talks/bill_gates_how_we_must_respond_to_the_covid_19_pandemic
