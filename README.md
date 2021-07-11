@@ -24,6 +24,7 @@
 * [How do dogs "see" with their noses?](https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses)
 * [How long should your naps be? - Sara C. Mednick](https://www.youtube.com/watch?v=BN9yqF6Um98)
 * [Is fire a solid, a liquid, or a gas? - Elizabeth Cox](https://www.youtube.com/watch?v=YV8TT9LRBrY)
+* [Making waves: The power of concentration gradients - Sasha Wright](https://www.youtube.com/watch?v=5xtgtJTC2go)
 * [Newton’s three-body problem explained - Fabio Pacucci](https://www.youtube.com/watch?v=D89ngRr4uZg)
 * [The Infinite Hotel Paradox - Jeff Dekofsky](https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky)
 * [The loathsome, lethal mosquito - Rose Eveleth](https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth)
