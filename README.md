@@ -38,6 +38,7 @@
 * [Why don't perpetual motion machines ever work? - Netta Schramm](https://www.youtube.com/watch?v=A-QgGXbDyR0)
 
 #### Best of Web
+* [Days of the week song](https://ed.ted.com/best_of_web/UCRutbdy)
 * [See it, say it, sign it | Letter Sounds | ASL Alphabet](https://ed.ted.com/best_of_web/yr5FK8YU)
 
 ### Misc.
