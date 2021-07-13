@@ -37,6 +37,9 @@
 * [Why do cats act so weird?](https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird)
 * [Why don't perpetual motion machines ever work? - Netta Schramm](https://www.youtube.com/watch?v=A-QgGXbDyR0)
 
+#### Best of Web
+* [See it, say it, sign it | Letter Sounds | ASL Alphabet](https://ed.ted.com/best_of_web/yr5FK8YU)
+
 ### Misc.
 * [Amy Cuddy: Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
 * [Bill Gates: The next outbreak? We're not ready](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready)
