@@ -6,6 +6,7 @@
 
 ### TEDGlobal 2013
 * [How to make stress your friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
+* [The art of misdirection](https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection)
 
 ### TED Connects
 * How we must respond to the COVID-19 pandemic
