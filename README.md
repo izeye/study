@@ -1,6 +1,9 @@
 # study
 
 ## TED
+### TEDGlobal 2011
+* [How to spot a liar](https://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar)
+
 ### TEDGlobal 2013
 * [How to make stress your friend](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend)
 
