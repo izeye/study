@@ -1,6 +1,9 @@
 # study
 
 ## TED
+### TED2012
+* [The power of introverts](https://www.ted.com/talks/susan_cain_the_power_of_introverts)
+
 ### TEDGlobal 2011
 * [How to spot a liar](https://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar)
 
