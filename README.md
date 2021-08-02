@@ -104,6 +104,9 @@
 ## Blogs
 * [How Meditation Works For Me](https://medium.com/@kentbeck_7670/how-meditation-works-for-me-11378a2a19fc)
 
+## News
+* [PayPal Engineering Teams Implement Premortem Analysis](https://www.infoq.com/news/2021/07/paypal-premortem-analysis/)
+
 ## Etc.
 * Your Workday Is Interrupted Every 11 Minutes. How to Manage Those Distractions.
   * https://www.entrepreneur.com/video/245388
