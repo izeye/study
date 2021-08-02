@@ -101,6 +101,9 @@
 ## Encyclopedia
 * [FOLO (Fear Of Losing Out)](https://100.daum.net/encyclopedia/view/201XXX2010066)
 
+## Blogs
+* [How Meditation Works For Me](https://medium.com/@kentbeck_7670/how-meditation-works-for-me-11378a2a19fc)
+
 ## Etc.
 * Your Workday Is Interrupted Every 11 Minutes. How to Manage Those Distractions.
   * https://www.entrepreneur.com/video/245388
