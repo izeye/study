@@ -85,6 +85,9 @@
 * The Geometric Mean
   * https://www.youtube.com/watch?v=_UdGUULKN-E
 
+### Misc.
+* [The Simplest Math Problem No One Can Solve](https://www.youtube.com/watch?v=094y1Z2wpJg)
+
 ## Articles
 * Quantile: Definition and How to Find Them in Easy Steps
   * https://www.statisticshowto.datasciencecentral.com/quantile-definition-find-easy-steps/
