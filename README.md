@@ -70,6 +70,7 @@
 * [Tom Thum: The orchestra in my mouth](https://www.ted.com/talks/tom_thum_the_orchestra_in_my_mouth)
 
 ## YouTube
+* [How Eratosthenes calculated the Earth's circumference](https://www.youtube.com/watch?v=Mw30CgaXiQw)
 * [How to Find Peace of Mind](https://www.youtube.com/watch?v=Bi6vvhXfScU)
 * [What is A/A Testing? | A/B Testing Fundamentals](https://www.youtube.com/watch?v=8g4u-KYf4YU)
 
