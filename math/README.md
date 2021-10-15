@@ -91,3 +91,12 @@
 ## Articles
 * Quantile: Definition and How to Find Them in Easy Steps
   * https://www.statisticshowto.datasciencecentral.com/quantile-definition-find-easy-steps/
+
+## Khan Academy
+### Precalculus
+#### Trigonometry
+##### Law of cosines
+* Solving for a side with the law of cosines
+* Solving for an angle with the law of cosines
+* Practice: Solve triangles using the law of cosines
+* Proof of the law of cosines
