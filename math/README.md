@@ -92,6 +92,9 @@
 * Quantile: Definition and How to Find Them in Easy Steps
   * https://www.statisticshowto.datasciencecentral.com/quantile-definition-find-easy-steps/
 
+## TED-Ed
+* [The mathematical secrets of Pascal’s triangle - Wajdi Mohamed Ratemi](https://www.youtube.com/watch?v=XMriWTvPXHI)
+
 ## Khan Academy
 ### Precalculus
 #### Trigonometry
