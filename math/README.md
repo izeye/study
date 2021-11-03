@@ -85,6 +85,9 @@
 * The Geometric Mean
   * https://www.youtube.com/watch?v=_UdGUULKN-E
 
+### Complex Numbers
+* [The Complex Logarithm Function | Principal value of the Logarithm | Complex Analysis #5](https://www.youtube.com/watch?v=s_MY2ByjvUs)
+
 ### Misc.
 * [The Simplest Math Problem No One Can Solve](https://www.youtube.com/watch?v=094y1Z2wpJg)
 
