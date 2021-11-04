@@ -109,3 +109,8 @@
 * Solving for an angle with the law of cosines
 * Practice: Solve triangles using the law of cosines
 * Proof of the law of cosines
+
+### Geometry
+#### Analytic geometry
+##### Challenge: Distance between a point and a line
+* Distance between point & line
