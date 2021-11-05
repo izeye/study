@@ -19,3 +19,4 @@
 
 ## YouTube
 * [DSA Page Feeds Set Up for Google Ads](https://www.youtube.com/watch?v=thfvVgTTSFM)
+* [Enhanced CPC (ECPC) vs Manual CPC in Google Ads (AdWords)](https://www.youtube.com/watch?v=3mvUZuAku60)
