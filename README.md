@@ -42,6 +42,7 @@
 * [When is a pandemic over?](https://ed.ted.com/lessons/when-is-a-pandemic-over)
 * [Why can't you divide by zero? - TED-Ed](https://www.youtube.com/watch?v=NKmGVE85GUU)
 * [Why do cats act so weird?](https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird)
+* [Why does your voice change as you get older? - Shaylin A. Schundler](https://www.youtube.com/watch?v=rjibeBSnpJ0)
 * [Why don't perpetual motion machines ever work? - Netta Schramm](https://www.youtube.com/watch?v=A-QgGXbDyR0)
 
 ### TEDMED 2009
