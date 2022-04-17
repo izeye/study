@@ -28,6 +28,7 @@
 * [How do carbohydrates impact your health? - Richard J. Wood](https://www.youtube.com/watch?v=wxzc_2c6GMg)
 * [How do dogs "see" with their noses?](https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses)
 * [How long should your naps be? - Sara C. Mednick](https://www.youtube.com/watch?v=BN9yqF6Um98)
+* [How to unboil an egg - Eleanor Nelsen](https://www.youtube.com/watch?v=CHMY4G9gTPA)
 * [Is fire a solid, a liquid, or a gas? - Elizabeth Cox](https://www.youtube.com/watch?v=YV8TT9LRBrY)
 * [Making waves: The power of concentration gradients - Sasha Wright](https://www.youtube.com/watch?v=5xtgtJTC2go)
 * [Newton’s three-body problem explained - Fabio Pacucci](https://www.youtube.com/watch?v=D89ngRr4uZg)
