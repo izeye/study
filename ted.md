@@ -39,6 +39,7 @@
 * [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
 * [What is Zeno's Dichotomy Paradox? - Colm Kelleher](https://www.youtube.com/watch?v=EfqVnj-sgcc)
 * [When is a pandemic over?](https://ed.ted.com/lessons/when-is-a-pandemic-over)
+* [Why are cockroaches so hard to kill?](https://www.ted.com/talks/ameya_gondhalekar_why_are_cockroaches_so_hard_to_kill)
 * [Why can't you divide by zero? - TED-Ed](https://www.youtube.com/watch?v=NKmGVE85GUU)
 * [Why do cats act so weird?](https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird)
 * [Why does your voice change as you get older? - Shaylin A. Schundler](https://www.youtube.com/watch?v=rjibeBSnpJ0)
