@@ -94,6 +94,7 @@
 ### Misc.
 * [Area of a circle, formula explained](https://www.youtube.com/watch?v=YokKp3pwVFc)
 * [The Simplest Math Problem No One Can Solve](https://www.youtube.com/watch?v=094y1Z2wpJg)
+* [Understanding the Circumference of a Circle Formula](https://www.youtube.com/watch?v=riNAA-jx0u8)
 
 ## Articles
 * Quantile: Definition and How to Find Them in Easy Steps
