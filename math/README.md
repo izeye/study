@@ -88,10 +88,11 @@
 ### Complex Numbers
 * [The Complex Logarithm Function | Principal value of the Logarithm | Complex Analysis #5](https://www.youtube.com/watch?v=s_MY2ByjvUs)
 
-## Euclidean Geometry
+### Euclidean Geometry
 * [Finding Distance from Point to Line (Formula)](https://www.youtube.com/watch?v=h13wI_gi4GA)
 
 ### Misc.
+* [Area of a circle, formula explained](https://www.youtube.com/watch?v=YokKp3pwVFc)
 * [The Simplest Math Problem No One Can Solve](https://www.youtube.com/watch?v=094y1Z2wpJg)
 
 ## Articles
