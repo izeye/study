@@ -37,6 +37,7 @@
 * [The mathematics of sidewalk illusions - Fumiko Futamura](https://www.youtube.com/watch?v=wujEE3PRVUo)
 * [The unexpected math behind Van Gogh's "Starry Night" - Natalya St. Clair](https://www.youtube.com/watch?v=PMerSm2ToFY)
 * [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
+* [What causes bad breath?](https://www.ted.com/talks/mel_rosenberg_what_causes_bad_breath)
 * [What is Zeno's Dichotomy Paradox? - Colm Kelleher](https://www.youtube.com/watch?v=EfqVnj-sgcc)
 * [When is a pandemic over?](https://ed.ted.com/lessons/when-is-a-pandemic-over)
 * [Why are cockroaches so hard to kill?](https://www.ted.com/talks/ameya_gondhalekar_why_are_cockroaches_so_hard_to_kill)
