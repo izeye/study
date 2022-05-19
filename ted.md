@@ -39,6 +39,7 @@
 * [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
 * [What causes bad breath?](https://www.ted.com/talks/mel_rosenberg_what_causes_bad_breath)
 * [What is Zeno's Dichotomy Paradox? - Colm Kelleher](https://www.youtube.com/watch?v=EfqVnj-sgcc)
+* [What would happen if you didn't sleep?](https://www.ted.com/talks/claudia_aguirre_what_would_happen_if_you_didn_t_sleep)
 * [When is a pandemic over?](https://ed.ted.com/lessons/when-is-a-pandemic-over)
 * [Why are cockroaches so hard to kill?](https://www.ted.com/talks/ameya_gondhalekar_why_are_cockroaches_so_hard_to_kill)
 * [Why can't you divide by zero? - TED-Ed](https://www.youtube.com/watch?v=NKmGVE85GUU)
