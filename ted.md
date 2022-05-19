@@ -54,6 +54,9 @@
 * [Most Shocking Second a Day Video](https://ed.ted.com/best_of_web/Mli0hSVZ)
 * [See it, say it, sign it | Letter Sounds | ASL Alphabet](https://ed.ted.com/best_of_web/yr5FK8YU)
 
+## Body Stuff with Dr. Jen Gunter
+* [A cleanse won't detox your body -- but here's what will](https://www.ted.com/talks/jen_gunter_a_cleanse_won_t_detox_your_body_but_here_s_what_will)
+
 ## Misc.
 * [Amy Cuddy: Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
 * [Bill Gates: The next outbreak? We're not ready](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready)
