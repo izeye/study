@@ -37,6 +37,7 @@
 * [The Infinite Hotel Paradox - Jeff Dekofsky](https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky)
 * [The loathsome, lethal mosquito - Rose Eveleth](https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth)
 * [The mathematics of sidewalk illusions - Fumiko Futamura](https://www.youtube.com/watch?v=wujEE3PRVUo)
+* [The surprising link between stress and memory](https://www.ted.com/talks/elizabeth_cox_the_surprising_link_between_stress_and_memory)
 * [The unexpected math behind Van Gogh's "Starry Night" - Natalya St. Clair](https://www.youtube.com/watch?v=PMerSm2ToFY)
 * [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
 * [What causes bad breath?](https://www.ted.com/talks/mel_rosenberg_what_causes_bad_breath)
