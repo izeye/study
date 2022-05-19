@@ -48,6 +48,7 @@
 * [Why do cats act so weird?](https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird)
 * [Why does your voice change as you get older? - Shaylin A. Schundler](https://www.youtube.com/watch?v=rjibeBSnpJ0)
 * [Why don't perpetual motion machines ever work? - Netta Schramm](https://www.youtube.com/watch?v=A-QgGXbDyR0)
+* [Why sitting is bad for you](https://www.ted.com/talks/murat_dalkilinc_why_sitting_is_bad_for_you)
 
 ## TEDMED 2009
 * [How I held my breath for 17 minutes](https://www.ted.com/talks/david_blaine_how_i_held_my_breath_for_17_minutes)
