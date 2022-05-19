@@ -33,6 +33,7 @@
 * [Is fire a solid, a liquid, or a gas? - Elizabeth Cox](https://www.youtube.com/watch?v=YV8TT9LRBrY)
 * [Making waves: The power of concentration gradients - Sasha Wright](https://www.youtube.com/watch?v=5xtgtJTC2go)
 * [Newton’s three-body problem explained - Fabio Pacucci](https://www.youtube.com/watch?v=D89ngRr4uZg)
+* [Sugar: Hiding in plain sight](https://www.ted.com/talks/robert_lustig_sugar_hiding_in_plain_sight)
 * [The Infinite Hotel Paradox - Jeff Dekofsky](https://ed.ted.com/lessons/the-infinite-hotel-paradox-jeff-dekofsky)
 * [The loathsome, lethal mosquito - Rose Eveleth](https://ed.ted.com/lessons/the-loathsome-lethal-mosquito-rose-eveleth)
 * [The mathematics of sidewalk illusions - Fumiko Futamura](https://www.youtube.com/watch?v=wujEE3PRVUo)
