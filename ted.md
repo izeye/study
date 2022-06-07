@@ -63,6 +63,7 @@
 * [A cleanse won't detox your body -- but here's what will](https://www.ted.com/talks/jen_gunter_a_cleanse_won_t_detox_your_body_but_here_s_what_will)
 
 ## Misc.
+* [A brain implant that turns your thoughts into text](https://www.ted.com/talks/tom_oxley_a_brain_implant_that_turns_your_thoughts_into_text)
 * [Amy Cuddy: Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
 * [Bill Gates: The next outbreak? We're not ready](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready)
 * [Brené Brown: The power of vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability)
