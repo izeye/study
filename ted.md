@@ -48,6 +48,7 @@
 * [Why are cockroaches so hard to kill?](https://www.ted.com/talks/ameya_gondhalekar_why_are_cockroaches_so_hard_to_kill)
 * [Why can't you divide by zero? - TED-Ed](https://www.youtube.com/watch?v=NKmGVE85GUU)
 * [Why do cats act so weird?](https://www.ted.com/talks/tony_buffington_why_do_cats_act_so_weird)
+* [Why do we dream?](https://www.ted.com/talks/amy_adkins_why_do_we_dream)
 * [Why does your voice change as you get older? - Shaylin A. Schundler](https://www.youtube.com/watch?v=rjibeBSnpJ0)
 * [Why don't perpetual motion machines ever work? - Netta Schramm](https://www.youtube.com/watch?v=A-QgGXbDyR0)
 * [Why sitting is bad for you](https://www.ted.com/talks/murat_dalkilinc_why_sitting_is_bad_for_you)
