@@ -73,6 +73,7 @@
 * [Graham Shaw: Why people believe they can't draw](https://www.ted.com/talks/graham_shaw_why_people_believe_they_can_t_draw)
 * [How caffeine and alcohol affect your sleep](https://www.ted.com/talks/matt_walker_how_caffeine_and_alcohol_affect_your_sleep)
 * [How every child can thrive by five](https://www.ted.com/talks/molly_wright_how_every_child_can_thrive_by_five)
+* [How to raise kids who can overcome anxiety](https://www.ted.com/talks/anne_marie_albano_how_to_raise_kids_who_can_overcome_anxiety)
 * [James Veitch: This is what happens when you reply to spam email](https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email)
 * [Julian Treasure: How to speak so that people want to listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
 * [Mary Roach: 10 things you didn't know about orgasm](https://www.ted.com/talks/mary_roach_10_things_you_didn_t_know_about_orgasm)
