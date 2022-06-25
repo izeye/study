@@ -6,4 +6,5 @@
 * [Easy Origami Fish DIY - Easy Origami for Kids (Very Easy) - Summer Paper Crafts](https://www.youtube.com/watch?v=ipsFC_GM9oc)
 * [Easy Origami - Paper Heart 💞- A4 sheet !!](https://www.youtube.com/watch?v=jizmI8xUA6Q)
 * [Origami Envelope (A4 Sheet)](https://www.youtube.com/watch?v=Z1lbp8Ff_dI)
+* [Origami for Kids - Origami Dog Tutorial (Very Easy)](https://www.youtube.com/watch?v=wWVppdfYOx8)
 * [Sun Glasses / Cooling Glasses from A4 sheet - DIY Origami Tutorial by Paper Folds ❤️](https://www.youtube.com/watch?v=eXmaeMyybN0)
