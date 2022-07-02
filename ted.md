@@ -5,6 +5,9 @@
 ## TED2007
 * [5 dangerous things you should let your kids do](https://www.ted.com/talks/gever_tulley_5_dangerous_things_you_should_let_your_kids_do)
 
+## TED2022
+* [An interdimensional performance of imagination](https://www.ted.com/talks/particle_ink_an_interdimensional_performance_of_imagination)
+
 ## TEDGlobal 2011
 * [How to spot a liar](https://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar)
 
