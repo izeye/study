@@ -2,6 +2,9 @@
 ## TED2012
 * [The power of introverts](https://www.ted.com/talks/susan_cain_the_power_of_introverts)
 
+## TED2007
+* [5 dangerous things you should let your kids do](https://www.ted.com/talks/gever_tulley_5_dangerous_things_you_should_let_your_kids_do)
+
 ## TEDGlobal 2011
 * [How to spot a liar](https://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar)
 
