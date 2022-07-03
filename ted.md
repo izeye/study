@@ -26,6 +26,7 @@
 
 ## TED Ed
 * [A brief history of banned numbers - Alessandra King](https://www.youtube.com/watch?v=VmWVXOIQblM)
+* [Are we living in a simulation?](https://www.ted.com/talks/zohreh_davoudi_are_we_living_in_a_simulation)
 * [Can you solve the bridge riddle? - Alex Gendler](https://ed.ted.com/lessons/can-you-solve-the-bridge-riddle-alex-gendler)
 * [Can you solve the cheating royal riddle? - Dan Katz](https://www.youtube.com/watch?v=hk9c7sJ08Bg)
 * [Can you solve the famously difficult green-eyed logic puzzle? - Alex Gendler](https://ed.ted.com/lessons/the-famously-difficult-green-eyed-logic-puzzle-alex-gendler)
