@@ -7,6 +7,7 @@
 
 ## TED2022
 * [An interdimensional performance of imagination](https://www.ted.com/talks/particle_ink_an_interdimensional_performance_of_imagination)
+* [The awesome potential of many metaverses](https://www.ted.com/talks/agnes_larsson_the_awesome_potential_of_many_metaverses)
 
 ## TEDGlobal 2011
 * [How to spot a liar](https://www.ted.com/talks/pamela_meyer_how_to_spot_a_liar)
