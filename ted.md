@@ -49,6 +49,7 @@
 * [The mathematics of sidewalk illusions - Fumiko Futamura](https://www.youtube.com/watch?v=wujEE3PRVUo)
 * [The surprising link between stress and memory](https://www.ted.com/talks/elizabeth_cox_the_surprising_link_between_stress_and_memory)
 * [The unexpected math behind Van Gogh's "Starry Night" - Natalya St. Clair](https://www.youtube.com/watch?v=PMerSm2ToFY)
+* [Three ways the universe could end](https://www.ted.com/talks/venus_keus_three_ways_the_universe_could_end)
 * [What are those floaty things in your eye? - Michael Mauser](https://ed.ted.com/lessons/what-are-those-floaty-things-in-your-eye-michael-mauser)
 * [What causes bad breath?](https://www.ted.com/talks/mel_rosenberg_what_causes_bad_breath)
 * [What is Zeno's Dichotomy Paradox? - Colm Kelleher](https://www.youtube.com/watch?v=EfqVnj-sgcc)
