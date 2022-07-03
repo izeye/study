@@ -41,6 +41,7 @@
 * [How rollercoasters affect your body](https://www.ted.com/talks/brian_d_avery_how_rollercoasters_affect_your_body)
 * [How sugar affects the brain](https://www.ted.com/talks/nicole_avena_how_sugar_affects_the_brain)
 * [How to unboil an egg - Eleanor Nelsen](https://www.youtube.com/watch?v=CHMY4G9gTPA)
+* [If superpowers were real: Immortality](https://www.ted.com/talks/joy_lin_if_superpowers_were_real_immortality)
 * [If superpowers were real: Invisibility](https://www.ted.com/talks/joy_lin_if_superpowers_were_real_invisibility)
 * [Is fire a solid, a liquid, or a gas? - Elizabeth Cox](https://www.youtube.com/watch?v=YV8TT9LRBrY)
 * [Making waves: The power of concentration gradients - Sasha Wright](https://www.youtube.com/watch?v=5xtgtJTC2go)
