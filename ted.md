@@ -38,6 +38,7 @@
 * [How do dogs "see" with their noses?](https://www.ted.com/talks/alexandra_horowitz_how_do_dogs_see_with_their_noses)
 * [How do you know you're not dreaming?](https://www.ted.com/talks/daniel_gregory_how_do_you_know_you_re_not_dreaming)
 * [How long should your naps be? - Sara C. Mednick](https://www.youtube.com/watch?v=BN9yqF6Um98)
+* [How rollercoasters affect your body](https://www.ted.com/talks/brian_d_avery_how_rollercoasters_affect_your_body)
 * [How sugar affects the brain](https://www.ted.com/talks/nicole_avena_how_sugar_affects_the_brain)
 * [How to unboil an egg - Eleanor Nelsen](https://www.youtube.com/watch?v=CHMY4G9gTPA)
 * [Is fire a solid, a liquid, or a gas? - Elizabeth Cox](https://www.youtube.com/watch?v=YV8TT9LRBrY)
