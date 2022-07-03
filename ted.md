@@ -45,6 +45,7 @@
 * [If superpowers were real: Flight](https://www.ted.com/talks/joy_lin_if_superpowers_were_real_flight)
 * [If superpowers were real: Immortality](https://www.ted.com/talks/joy_lin_if_superpowers_were_real_immortality)
 * [If superpowers were real: Invisibility](https://www.ted.com/talks/joy_lin_if_superpowers_were_real_invisibility)
+* [If superpowers were real: Super speed](https://www.ted.com/talks/joy_lin_if_superpowers_were_real_super_speed)
 * [Is fire a solid, a liquid, or a gas? - Elizabeth Cox](https://www.youtube.com/watch?v=YV8TT9LRBrY)
 * [Making waves: The power of concentration gradients - Sasha Wright](https://www.youtube.com/watch?v=5xtgtJTC2go)
 * [Newton’s three-body problem explained - Fabio Pacucci](https://www.youtube.com/watch?v=D89ngRr4uZg)
