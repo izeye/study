@@ -9,4 +9,5 @@
 * [How to Draw Little Mermaid Ariel in Pink Human Princess Dress](https://www.youtube.com/watch?v=f6QRo9nPj8o)
 * [How to Draw Little Mermaid Ariel in Wedding Dress](https://www.youtube.com/watch?v=hRIVIg0J4tQ)
 * [How to Draw Roses Super Easy 💐Valentines Flower Bouquet Art](https://www.youtube.com/watch?v=nl-AHGx71mc)
+* [How to Draw Sofia the First step by step Chibi Disney Princess Cute](https://www.youtube.com/watch?v=eeP1_TICJtQ)
 * [How to Draw Young Anna | Disney Frozen](https://www.youtube.com/watch?v=JffxPOqQ6es)
