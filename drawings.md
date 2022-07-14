@@ -13,4 +13,5 @@
 * [How to Draw Princess Amber | Sofia the First](https://www.youtube.com/watch?v=PWBDWS2hxMo)
 * [How to Draw Roses Super Easy 💐Valentines Flower Bouquet Art](https://www.youtube.com/watch?v=nl-AHGx71mc)
 * [How to Draw Sofia the First step by step Chibi Disney Princess Cute](https://www.youtube.com/watch?v=eeP1_TICJtQ)
+* [How to Draw Strawberry Lemonade 🍓🍋 Summer Art Series #12](https://www.youtube.com/watch?v=33NJEj-Knz4)
 * [How to Draw Young Anna | Disney Frozen](https://www.youtube.com/watch?v=JffxPOqQ6es)
