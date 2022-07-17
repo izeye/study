@@ -10,3 +10,6 @@
 
 #### 삼성서울병원 건강칼럼
 * [탈장에 관하여](https://terms.naver.com/entry.naver?docId=2102471&cid=63166&categoryId=51019)
+
+## Misc.
+* [아이 열 내리는 방법](https://www.tylenol.co.kr/children-infants/fever/cool-down-the-fever)
