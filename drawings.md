@@ -6,6 +6,7 @@
 * [How to Draw a Fall Drink 🎃Pumpkin Spice Cute Drink Art](https://www.youtube.com/watch?v=GZgkRXk2X4w)
 * [How to Draw a Hummingbird](https://www.youtube.com/watch?v=yLXBakGb4wo)
 * [How to Draw a Jar of Candy 🍬Cute Food Art](https://www.youtube.com/watch?v=edQatG_C9c0)
+* [How to Draw a Lollipop Easy and Cute](https://www.youtube.com/watch?v=9F2VhmxZInM)
 * [HOW TO DRAW - Elfilin (Kirby and the Forgotten Land)](https://www.youtube.com/watch?v=_s2LJxlZAVA)
 * [How to Draw Elsa in White Dress Hair Down | Disney Frozen](https://www.youtube.com/watch?v=80mkqBe4TsQ)
 * [How to Draw Kirby ⭐️](https://www.youtube.com/watch?v=bqqsL8uXEY4)
