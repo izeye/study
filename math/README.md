@@ -76,14 +76,11 @@
   * https://www.youtube.com/watch?v=N20rl2llHno
 
 #### Misc.
-* Normal Distribution - Explained Simply (part 1)
-  * https://www.youtube.com/watch?v=xgQhefFOXrM
-* Normal Distribution - Explained Simply (part 2)
-  * https://www.youtube.com/watch?v=iiRiOlkLa6A
-* Standard Deviation - Explained and Visualized
-  * https://www.youtube.com/watch?v=MRqtXL2WX2M
-* The Geometric Mean
-  * https://www.youtube.com/watch?v=_UdGUULKN-E
+* [Never Forget Again! // Precision vs Recall with a Clear Example of Precision and Recall](https://www.youtube.com/watch?v=qWfzIYCvBqo)
+* [Normal Distribution - Explained Simply (part 1)](https://www.youtube.com/watch?v=xgQhefFOXrM)
+* [Normal Distribution - Explained Simply (part 2)](https://www.youtube.com/watch?v=iiRiOlkLa6A)
+* [Standard Deviation - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M)
+* [The Geometric Mean](https://www.youtube.com/watch?v=_UdGUULKN-E)
 
 ### Complex Numbers
 * [The Complex Logarithm Function | Principal value of the Logarithm | Complex Analysis #5](https://www.youtube.com/watch?v=s_MY2ByjvUs)
