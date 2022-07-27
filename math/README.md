@@ -76,6 +76,7 @@
   * https://www.youtube.com/watch?v=N20rl2llHno
 
 #### Misc.
+* [Harmonic Mean Formula Explained](https://www.youtube.com/watch?v=PmSrK801e4w)
 * [Never Forget Again! // Precision vs Recall with a Clear Example of Precision and Recall](https://www.youtube.com/watch?v=qWfzIYCvBqo)
 * [Normal Distribution - Explained Simply (part 1)](https://www.youtube.com/watch?v=xgQhefFOXrM)
 * [Normal Distribution - Explained Simply (part 2)](https://www.youtube.com/watch?v=iiRiOlkLa6A)
