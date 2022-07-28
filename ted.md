@@ -84,6 +84,7 @@
 ## Misc.
 * [3 new ways to kill mosquitoes](https://www.ted.com/talks/bart_knols_3_new_ways_to_kill_mosquitoes)
 * [5 skin health myths to stop believing now](https://www.ted.com/talks/jen_gunter_5_skin_health_myths_to_stop_believing_now)
+* [5 tips to improve your critical thinking](https://www.ted.com/talks/samantha_agoos_5_tips_to_improve_your_critical_thinking)
 * [A brain implant that turns your thoughts into text](https://www.ted.com/talks/tom_oxley_a_brain_implant_that_turns_your_thoughts_into_text)
 * [Amy Cuddy: Your body language may shape who you are](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
 * [Bill Gates: The next outbreak? We're not ready](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready)
