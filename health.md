@@ -13,6 +13,9 @@
 #### 서울대학교병원 의학정보
 * [신경차단술 [ Nerve block ]](https://terms.naver.com/entry.naver?docId=6225743&cid=51007&categoryId=51007)
 
+#### 고려대학교의료원 건강칼럼
+* [중이염](https://terms.naver.com/entry.naver?docId=5771054&cid=63166&categoryId=59314)
+
 #### 삼성서울병원 건강칼럼
 * [탈장에 관하여](https://terms.naver.com/entry.naver?docId=2102471&cid=63166&categoryId=51019)
 
