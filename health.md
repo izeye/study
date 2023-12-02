@@ -8,6 +8,9 @@
 * [귀먹먹(귀멍멍)한 증상, 난청의 원인과 자가 치료 | 이관기능 장애 원인과 개선 방법 | 귀먹먹 증상으로 병원에 가야하는 경우는? | 오공작가](https://www.youtube.com/watch?v=b-8hu-To4Mk)
 * [비행기를 탔을 때 귀가 아프거나 먹먹함을 느낄 때, 발살바법과 토인비법](https://www.youtube.com/watch?v=QfbRJRZsbtc)
 
+### 혈뇨
+* [소변에서 피가 나온다면? / 소변에 피가 섞인 혈뇨는 어떤 정보를 담고 있을까? / 혈뇨 / TV닥터인사이드 부산MBC 20210222 방송](https://www.youtube.com/watch?v=798p6N_yexw)
+
 ## Naver 지식백과
 ### 건강백과
 #### 서울대학교병원 의학정보
