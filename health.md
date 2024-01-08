@@ -14,6 +14,7 @@
 ## Naver 지식백과
 ### 건강백과
 #### 서울대학교병원 의학정보
+* [급성 부비동염](https://terms.naver.com/entry.naver?docId=926738&cid=51007&categoryId=51007)
 * [신경차단술 [ Nerve block ]](https://terms.naver.com/entry.naver?docId=6225743&cid=51007&categoryId=51007)
 
 #### 고려대학교의료원 건강칼럼
