@@ -16,6 +16,7 @@
 #### 서울대학교병원 의학정보
 * [급성 부비동염](https://terms.naver.com/entry.naver?docId=926738&cid=51007&categoryId=51007)
 * [신경차단술 [ Nerve block ]](https://terms.naver.com/entry.naver?docId=6225743&cid=51007&categoryId=51007)
+* [직장암의 증상과 치질의 증상은 어떻게 구별하나요?](https://terms.naver.com/entry.naver?docId=2100476&cid=63166&categoryId=51020)
 * [혈변 [ melena음성듣기 , hematochezia ]](https://terms.naver.com/entry.naver?docId=927432&cid=51007&categoryId=51007)
 
 #### 고려대학교의료원 건강칼럼
