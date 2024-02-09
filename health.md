@@ -23,6 +23,7 @@
 * [중이염](https://terms.naver.com/entry.naver?docId=5771054&cid=63166&categoryId=59314)
 
 #### 삼성서울병원 건강칼럼
+* [감기와 후각소실증](https://terms.naver.com/entry.naver?docId=2102864&cid=63166&categoryId=51019)
 * [탈장에 관하여](https://terms.naver.com/entry.naver?docId=2102471&cid=63166&categoryId=51019)
 
 ## Misc.
