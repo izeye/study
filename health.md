@@ -28,4 +28,5 @@
 * [후각소실](https://terms.naver.com/entry.naver?docId=927395&cid=51007&categoryId=51007)
 
 ## Misc.
+* [The cure for hiccups that works every, single time](https://www.youtube.com/watch?v=Bd5lr1Aj97I)
 * [아이 열 내리는 방법](https://www.tylenol.co.kr/children-infants/fever/cool-down-the-fever)
