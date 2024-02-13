@@ -27,6 +27,9 @@
 * [탈장에 관하여](https://terms.naver.com/entry.naver?docId=2102471&cid=63166&categoryId=51019)
 * [후각소실](https://terms.naver.com/entry.naver?docId=927395&cid=51007&categoryId=51007)
 
+#### 1분 건강정보-고려대병원
+* [[고대병원] 중이염 예방을 위해 껌을 씹는것이 도움이 되나요?](https://terms.naver.com/entry.naver?docId=5829610&cid=51616&categoryId=65683)
+
 ## Misc.
 * [The cure for hiccups that works every, single time](https://www.youtube.com/watch?v=Bd5lr1Aj97I)
 * [아이 열 내리는 방법](https://www.tylenol.co.kr/children-infants/fever/cool-down-the-fever)
