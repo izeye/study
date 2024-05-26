@@ -20,6 +20,7 @@
 * [혈변 [ melena음성듣기 , hematochezia ]](https://terms.naver.com/entry.naver?docId=927432&cid=51007&categoryId=51007)
 
 #### 고려대학교의료원 건강칼럼
+* [거스러미 뜯는 버릇 있다면 ‘조갑주위염’ 주의하세요](https://terms.naver.com/entry.naver?docId=6201309&cid=63166&categoryId=59314)
 * [중이염](https://terms.naver.com/entry.naver?docId=5771054&cid=63166&categoryId=59314)
 
 #### 삼성서울병원 건강칼럼
