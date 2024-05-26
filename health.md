@@ -15,6 +15,7 @@
 ### 건강백과
 #### 서울대학교병원 의학정보
 * [급성 부비동염](https://terms.naver.com/entry.naver?docId=926738&cid=51007&categoryId=51007)
+* [봉와직염 [ cellulitis ]](https://terms.naver.com/entry.naver?docId=926792&cid=51007&categoryId=51007)
 * [신경차단술 [ Nerve block ]](https://terms.naver.com/entry.naver?docId=6225743&cid=51007&categoryId=51007)
 * [조갑주위염 [ Paronychia ]](https://terms.naver.com/entry.naver?docId=6226046&cid=51007&categoryId=51007)
 * [직장암의 증상과 치질의 증상은 어떻게 구별하나요?](https://terms.naver.com/entry.naver?docId=2100476&cid=63166&categoryId=51020)
