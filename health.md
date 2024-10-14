@@ -16,6 +16,7 @@
 #### 서울대학교병원 의학정보
 * [고관절염 [arthritis of the hip joint]](http://www.snuh.org/health/nMedInfo/nView.do?category=DIS&medid=AA000552)
 * [급성 부비동염](https://terms.naver.com/entry.naver?docId=926738&cid=51007&categoryId=51007)
+* [돌발성 난청 [ sudden sensory neural hearing loss ]](https://terms.naver.com/entry.naver?docId=927282&cid=51007&categoryId=51007)
 * [봉와직염 [ cellulitis ]](https://terms.naver.com/entry.naver?docId=926792&cid=51007&categoryId=51007)
 * [신경차단술 [ Nerve block ]](https://terms.naver.com/entry.naver?docId=6225743&cid=51007&categoryId=51007)
 * [조갑주위염 [ Paronychia ]](https://terms.naver.com/entry.naver?docId=6226046&cid=51007&categoryId=51007)
