@@ -3,6 +3,7 @@
 ## YouTube
 ### Dental
 * [How to Brush Your Teeth Animation MCM](https://www.youtube.com/watch?v=BapR9J86ZZw)
+* [How to Brush Your Teeth - Tooth Brushing for Kids](https://www.youtube.com/watch?v=vcNAhUqH9U0)
 * [What If You Stopped Brushing Your Teeth Forever?](https://www.youtube.com/watch?v=lqriCSSsMiA)
 
 ### Ear
