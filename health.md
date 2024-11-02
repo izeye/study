@@ -2,6 +2,7 @@
 
 ## YouTube
 ### Dental
+* [How to Brush Your Teeth Animation MCM](https://www.youtube.com/watch?v=BapR9J86ZZw)
 * [What If You Stopped Brushing Your Teeth Forever?](https://www.youtube.com/watch?v=lqriCSSsMiA)
 
 ### Ear
