@@ -22,6 +22,7 @@
 * [돌발성 난청 [ sudden sensory neural hearing loss ]](https://terms.naver.com/entry.naver?docId=927282&cid=51007&categoryId=51007)
 * [봉와직염 [ cellulitis ]](https://terms.naver.com/entry.naver?docId=926792&cid=51007&categoryId=51007)
 * [신경차단술 [ Nerve block ]](https://terms.naver.com/entry.naver?docId=6225743&cid=51007&categoryId=51007)
+* [인후염 [ laryngopharyngitis ]](https://terms.naver.com/entry.naver?docId=927021&cid=51007&categoryId=51007)
 * [조갑주위염 [ Paronychia ]](https://terms.naver.com/entry.naver?docId=6226046&cid=51007&categoryId=51007)
 * [직장암의 증상과 치질의 증상은 어떻게 구별하나요?](https://terms.naver.com/entry.naver?docId=2100476&cid=63166&categoryId=51020)
 * [혈변 [ melena음성듣기 , hematochezia ]](https://terms.naver.com/entry.naver?docId=927432&cid=51007&categoryId=51007)
