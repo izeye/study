@@ -5,6 +5,7 @@
 * [How to Brush Your Teeth Animation MCM](https://www.youtube.com/watch?v=BapR9J86ZZw)
 * [How to Brush Your Teeth - Tooth Brushing for Kids](https://www.youtube.com/watch?v=vcNAhUqH9U0)
 * [What If You Stopped Brushing Your Teeth Forever?](https://www.youtube.com/watch?v=lqriCSSsMiA)
+* [아이 키우는 부모님들 필수 시청! 실로 안아프게 이 뽑기 | 실로 발치하는 올바른 매듭법🦷](https://www.youtube.com/watch?v=FiqHINZG9GQ)
 
 ### Ear
 * [갑자기 한쪽 귀가 먹먹하고 이명이 들려요! 돌발성난청이란?](https://www.youtube.com/watch?v=kjd-Y74u9fc)
